@@ -1,16 +1,19 @@
-### Hi there 👋
+# 👋 Hi there, I'm Jairo Barrera
 
-<!--
-**BJairo/BJairo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer student who is passionate about learning more about backend development. I am currently exploring different technologies and tools in this area.
 
-Here are some ideas to get you started:
+## 🌱 I'm currently learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Backend frameworks and library: Next.js with tRCP and Prisma
+- Databases: MySQL and PostgreSQL
+- Tools: Git, Railway, DigitalOcean and AWS
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjairo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bjairo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📫 How to reach me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jairobarher27@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tuperfil](https://www.linkedin.com/in/jairo-barrera/))
+
+Thank you for visiting my GitHub profile! 😄
